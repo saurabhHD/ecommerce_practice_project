@@ -1,0 +1,4 @@
+AuthName "employee_panel"
+AuthType Basic
+AuthUserFile c:/wamp64/www/shop/employee_panel/.htpasswd
+Require valid-user
